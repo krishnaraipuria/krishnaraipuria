@@ -31,12 +31,19 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=flat&logo=apachekafka&logoColor=white)
 
 
-## My Stats
-<p align="center">
-  <a href="https://github.com/krishnaraipuria">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnaraipuria&theme=radical&layout=compact&exclude_lang=java+r"/>
-  </a>
-</p>
+## 📊 My Stats
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/krishnaraipuria">
+        <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnaraipuria&theme=radical&layout=compact&exclude_lang=java+r"/>
+      </a>
+    </td>
+    <td style="padding-left: 10px;">
+      <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaraipuria&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🤝 Connect with Me
