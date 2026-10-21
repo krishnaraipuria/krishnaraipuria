@@ -8,28 +8,29 @@
 - 🤖 Exploring AI agents and improving problem-solving through Data Structures & Algorithms.
 
   
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <p>
-  <strong>💻 Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,kotlin" alt="C, C++, JavaScript, Python, Kotlin" />
+  &emsp;&emsp;<strong>💻 Languages</strong><br />
+  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=c,cpp,js,python,kotlin" alt="Languages" />
 </p>
 
 <p>
-  <strong>⚙️ Backend & Databases</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" alt="Node.js, Express, MongoDB, Redis, Firebase" /><br />
-  <sub>REST APIs · Mongoose · JWT · Multer · Cloudinary · Postman</sub>
+  &emsp;&emsp;<strong>⚙️ Backend & Databases</strong><br />
+  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" alt="Node.js, Express, MongoDB, Redis, Firebase" /><br />
+  &emsp;&emsp;<sub>REST APIs · Mongoose · JWT · Multer · Cloudinary · Postman</sub>
 </p>
 
 <p>
-  <strong>🌐 Frontend & Android</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,kotlin,androidstudio" alt="React, Vite, Tailwind CSS, Kotlin, Android Studio" /><br />
-  <sub>Jetpack Compose · Room</sub>
+  &emsp;&emsp;<strong>🌐 Frontend & Android</strong><br />
+  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=react,vite,tailwind,kotlin,androidstudio" alt="React, Vite, Tailwind CSS, Kotlin, Android Studio" /><br />
+  &emsp;&emsp;<sub>Jetpack Compose · Room</sub>
 </p>
 
 <p>
-  <strong>🤖 AI, Cloud & Tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=python,docker,gcp,git,github,vscode" alt="Python, Docker, Google Cloud, Git, GitHub, VS Code" /><br />
-  <sub>LangChain · LangGraph · LLM APIs</sub>
+  &emsp;&emsp;<strong>🤖 AI, Cloud & Tools</strong><br />
+  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=python,docker,gcp,git,github,vscode" alt="Python, Docker, Google Cloud, Git, GitHub, VS Code" /><br />
+  &emsp;&emsp;<sub>LangChain · LangGraph · LLM APIs</sub>
 </p>
 
 📊 GitHub Overview
