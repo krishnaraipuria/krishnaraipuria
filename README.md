@@ -37,10 +37,18 @@
 <table align="center" border="0" cellpadding="6" cellspacing="0">
   <tr>
     <td align="center">
-      <img width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaraipuria&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=400" alt="Most used programming languages" />
+      <img
+        width="400"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krishnaraipuria&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+        alt="Most Used Languages"
+      />
     </td>
     <td align="center">
-      <img width="400" height="170" src="https://streak-stats.demolab.com?user=krishnaraipuria&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub contributions and streak" />
+      <img
+        width="400"
+        src="https://streak-stats.demolab.com?user=krishnaraipuria&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+      />
     </td>
   </tr>
 </table>
